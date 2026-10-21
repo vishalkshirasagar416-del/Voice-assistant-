@@ -1,0 +1,8 @@
+{
+  "name": "Priya - AI Voice Companion & Assistant",
+  "description": "Voice companion with interactive 3D avatar, conversation memory, local tool execution, voice synthesis, and multi-provider AI support.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
